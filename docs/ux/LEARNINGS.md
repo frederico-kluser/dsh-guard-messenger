@@ -1,3 +1,5 @@
+> **MEMÓRIA APOSENTADA (2026-09-27):** o conteúdo deste ficheiro foi migrado para a memória CoALA local do projeto (`.agents/deepseek-harness-mobile-coala-memory-agent-skill/`). Fica só como **fonte histórica** — não escrever mais aqui. Aprendizado novo: `python3 .agents/deepseek-harness-mobile-coala-memory-agent-skill/scripts/coala.py add --type episodic --content "…"`.
+
 # LEARNINGS — Onda 1 "nome + botões" (dsh-guard-messenger)
 
 Aprendizados registrados nesta onda, com a causa raiz e o fix de cada um, para
